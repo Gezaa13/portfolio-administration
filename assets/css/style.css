@@ -1,0 +1,102 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 25px;
+}
+
+.bg-gradient-1 {
+  background: linear-gradient(0deg, #36009a, #18003d);
+}
+.bg-gmail {
+  background-color: #e01310;
+}
+.bg-whatsapp {
+  background-color: #07a221;
+}
+.bg-1 {
+  background-color: #0842d5;
+}
+.bg-2 {
+  background-color: #2e8531;
+}
+.bg-3 {
+  background-color: #cd392d;
+}
+
+.text-1 {
+  color: #0842d5;
+}
+.text-2 {
+  color: #2e8531;
+}
+.text-3 {
+  color: #cd392d;
+}
+
+.logo-1 {
+  height: 10vw;
+}
+.logo-2 {
+  height: 5vh;
+}
+.logo-3 {
+  height: 9vh;
+}
+
+.spinner {
+  height: 5vw;
+  width: 5vw;
+}
+
+.loading-screen {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.75);
+  position: fixed;
+  z-index: 2;
+}
+
+.language-button {
+  width: 10vh;
+  height: 10vh;
+  background-color: rgb(206, 206, 206);
+  position: fixed;
+  z-index: 1;
+  right: 0;
+  bottom: 0;
+}
+
+.language-button-1 {
+  width: 10vh;
+  height: 10vh;
+  background-color: rgb(206, 206, 206);
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  bottom: 0;
+}
+
+.line-1 {
+  height: 15px;
+  width: 75vw;
+  position: absolute;
+}
+.line-2 {
+  height: 15px;
+  width: 50vw;
+  position: absolute;
+}
+.line-3 {
+  height: 5px;
+  width: 25%;
+  position: absolute;
+  background-color: black;
+}
+
+.w-35 {
+  width: 35vw;
+}
+
+.card {
+  width: 300px;
+  flex-shrink: 0;
+}
